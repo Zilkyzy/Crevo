@@ -84,7 +84,7 @@ Saya ingin konsultasi lebih lanjut. Terima kasih!`;
     
     sendToWhatsApp(message) {
         const encodedMessage = encodeURIComponent(message);
-        const whatsappURL = `https://wa.me/6281234567890?text=${encodedMessage}`;
+        const whatsappURL = `https://wa.me/6283809148641?text=${encodedMessage}`;
         window.open(whatsappURL, '_blank');
     }
     
